@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "341557183197",
+    "firebase_url": "https://flutter-giftcon-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-giftcon",
+    "storage_bucket": "flutter-giftcon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341557183197:android:5e371cec550e307c94d134",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_giftcon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341557183197-6lq7vu78ejc60olk72cr6tk4hlqo3vlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdP1xVanS4oNnGvA6Rex-hK6h0-wSnXV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341557183197-6lq7vu78ejc60olk72cr6tk4hlqo3vlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
