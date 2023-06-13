@@ -47,9 +47,9 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDFasUOBBHQD2UnsB4ikaYtbA1_Neoqh8I',
-    appId: '1:341557183197:web:474e2b992ff67f6894d134',
-    messagingSenderId: '341557183197',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'flutter-giftcon',
     authDomain: 'flutter-giftcon.firebaseapp.com',
     databaseURL: 'https://flutter-giftcon-default-rtdb.asia-southeast1.firebasedatabase.app',
@@ -58,22 +58,22 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCdP1xVanS4oNnGvA6Rex-hK6h0-wSnXV8',
-    appId: '1:341557183197:android:5e371cec550e307c94d134',
-    messagingSenderId: '341557183197',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'flutter-giftcon',
     databaseURL: 'https://flutter-giftcon-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'flutter-giftcon.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC2plLk2_QsyoW1lGkHC62X_1Yz0rnC5b4',
-    appId: '1:341557183197:ios:26553c97a23c99b594d134',
-    messagingSenderId: '341557183197',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'flutter-giftcon',
     databaseURL: 'https://flutter-giftcon-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'flutter-giftcon.appspot.com',
-    iosClientId: '341557183197-u5fqdkufji8mfbggptf5l6pqmv1bcul9.apps.googleusercontent.com',
+    iosClientId: '',
     iosBundleId: 'com.example.flutterApplicationGiftcon',
   );
 }
